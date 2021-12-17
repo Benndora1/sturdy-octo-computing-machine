@@ -1,2 +1,2 @@
 # sturdy-octo-computing-machine
-Django Rest Framework 
+Django Rest Framework api
